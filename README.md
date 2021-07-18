@@ -17,9 +17,18 @@ This repository includes two projects. The first project, PyBank, analyzes a ban
         2. Help understanding While loops
         https://www.w3schools.com/python/python_while_loops.asp
     
-    2. There is a PNG file labeled PyBank_Analysis_Results. This is a picture of the results in the terminal
+    2. There is a PNG file labeled PyBank_Analysis_Results. This is a picture of the results in the terminal.
 
     3. financial_analysis.csv is a CSV with the PyBank project results. This file was exported using the 
-    last section of code.
+    last section of code. This file includes the total months in analysis, total of the profit/losses column, the average change between two months, greatest increase in profits (month and amount of profit), and greatest decrease in profits (month and amount of loss).
 
-The second project, PyPoll, analyzes voter data of a small, rural town to determine Election results.The original file can be found in PyPoll -> Resources --> election_data.csv
+The second project, PyPoll, analyzes voter data of a small, rural town to determine Election results.The original file can be found in PyPoll -> Resources --> election_data.csv. In PyPoll's Analysis folder includes:
+
+    1. main.py: this is the python script used that led to the results. In this script I used the same 
+    sources as in PyBank analysis for help with while loops and formatting.
+    
+    2. There is a PNG file labeled PyPoll_Analysis_Results. This is a picture of the results in the 
+    terminal.
+
+    3. election_results.csv is a CSV with the PyPoll project results. Again, this file was exported using the 
+    last section of code.

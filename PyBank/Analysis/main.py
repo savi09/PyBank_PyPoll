@@ -235,7 +235,7 @@
     "    csvwriter.writerow(['Greatest Increase in Profits:', great_increase_month, great_increase])\n",
     "    \n",
     "    # Write the fifth row\n",
-    "    csvwriter.writerow(['reatest Decrease in Profits:', great_decrease_month, great_decrease])"
+    "    csvwriter.writerow(['Greatest Decrease in Profits:', great_decrease_month, great_decrease])"
    ]
   },
   {
