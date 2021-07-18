@@ -24,7 +24,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "<_csv.reader object at 0x000002C3367250A0>\n",
+      "<_csv.reader object at 0x000001B90A3C55E0>\n",
       "CSV Header: ['Date', 'Profit/Losses']\n"
      ]
     }
@@ -204,7 +204,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 9,
    "id": "5ad2eea6-fbca-47fe-bc2b-ba8244b957c3",
    "metadata": {},
    "outputs": [],

@@ -20,7 +20,9 @@ This repository includes two projects. The first project, PyBank, analyzes a ban
     2. There is a PNG file labeled PyBank_Analysis_Results. This is a picture of the results in the terminal.
 
     3. financial_analysis.csv is a CSV with the PyBank project results. This file was exported using the 
-    last section of code. This file includes the total months in analysis, total of the profit/losses column, the average change between two months, greatest increase in profits (month and amount of profit), and greatest decrease in profits (month and amount of loss).
+    last section of code. This file includes the total months in analysis, total of the profit/losses 
+    column, the average change between two months, greatest increase in profits (month and amount of 
+    profit), and greatest decrease in profits (month and amount of loss).
 
 The second project, PyPoll, analyzes voter data of a small, rural town to determine Election results.The original file can be found in PyPoll -> Resources --> election_data.csv. In PyPoll's Analysis folder includes:
 
@@ -30,5 +32,6 @@ The second project, PyPoll, analyzes voter data of a small, rural town to determ
     2. There is a PNG file labeled PyPoll_Analysis_Results. This is a picture of the results in the 
     terminal.
 
-    3. election_results.csv is a CSV with the PyPoll project results. Again, this file was exported using the 
-    last section of code.
+    3. election_results.csv is a CSV with the PyPoll project results. Again, this file was exported using 
+    the last section of code. This file includes the total number of votes, canidates with the percentage 
+    of votes received and the number of votes received, and the name of the winner.
