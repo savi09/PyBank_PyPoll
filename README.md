@@ -12,8 +12,8 @@ This repository includes two projects. The first project, PyBank, analyzes a ban
             '${:,.2f}'.format(amount)
                  This line formats the variable, amount to include a $, commas in the right place, and a
                 decimal to the hundreth value.
-                
+
         2. Help understanding While loops
-        https://www.w3schools.com/python/python_lists_loop.asp
+        https://www.w3schools.com/python/python_while_loops.asp
 
 The second project, PyPoll, analyzes voter data of a small, rural town to determine Election results.The original file can be found in PyPoll -> Resources --> election_data.csv
